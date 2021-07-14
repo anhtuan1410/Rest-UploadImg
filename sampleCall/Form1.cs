@@ -19,7 +19,7 @@ namespace sampleCall
 {
     public partial class Form1 : Form
     {
-        string global_host = "http://samplelink/api";//link api call api
+        string global_host = "http://mapi.wellspringsg.khachhang.me:8089/api/app";//link api call api
         List<string> lstImg = new List<string>
         {
             { "57462603-3405-4d32-8d15-a2279524156d" },
